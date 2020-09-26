@@ -1,0 +1,12 @@
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\bin\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.deps.json
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\bin\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.dll
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\bin\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.pdb
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.csprojAssemblyReference.cache
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.AssemblyInfoInputs.cache
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.AssemblyInfo.cs
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.dll
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.pdb
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\bin\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Domain.dll
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\bin\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Domain.pdb
+C:\Users\Somaya.Ibrahim\source\repos\SchoolAdministration\SchoolAdministration.Services.Identity.Application\obj\Debug\netcoreapp3.1\SchoolAdministration.Services.Identity.Application.csproj.CopyComplete
